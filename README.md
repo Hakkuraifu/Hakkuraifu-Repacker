@@ -43,3 +43,12 @@ You can use steam/epic emulators but you need to credit them.
 ---
 
 # ⚠️ THIS SOFTWARE IS A SIMPLE DATA COMPRESSION TOOL, HAKKURAIFU IS NOT RESPONSIBLE IF YOU USE IT TO SHARE OR DOWNLOAD CRACKED GAMES THAT YOU DON'T OWNED ⚠️
+
+---
+
+### Credit
+
+- [XieJJ99](https://github.com/XieJJ99) | [brotli.net](https://github.com/XieJJ99/brotli.net)
+- [adamhathcock](https://github.com/adamhathcock) | [sharpcompress](https://github.com/adamhathcock/sharpcompress)
+- [RomanBelkov](https://github.com/RomanBelkov) | [XZ.NET](https://github.com/RomanBelkov/XZ.NET)
+- [skbkontur](https://github.com/skbkontur) | [ZstdNet](https://github.com/skbkontur/ZstdNet)
