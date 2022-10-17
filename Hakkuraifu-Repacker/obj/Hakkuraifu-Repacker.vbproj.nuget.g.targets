@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)zstdnet\1.4.5\build\ZstdNet.targets" Condition="Exists('$(NuGetPackageRoot)zstdnet\1.4.5\build\ZstdNet.targets')" />
+    <Import Project="$(NuGetPackageRoot)xz.net-netstandard\2.0.0.2\build\XZ.NET-netstandard.targets" Condition="Exists('$(NuGetPackageRoot)xz.net-netstandard\2.0.0.2\build\XZ.NET-netstandard.targets')" />
+    <Import Project="$(NuGetPackageRoot)brotli.net\2.1.1\build\Brotli.NET.targets" Condition="Exists('$(NuGetPackageRoot)brotli.net\2.1.1\build\Brotli.NET.targets')" />
+  </ImportGroup>
+</Project>

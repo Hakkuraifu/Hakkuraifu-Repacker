@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TPp2nncYk1a3UesYGgfnR/R7LTU7tPAILj3hg6s2SZo+WFcSrJKk//ZMh/i3HIWA+3ep9LVmzQiaiev03ZxCpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\echol\\source\\repos\\Hakkuraifu-Repacker\\Hakkuraifu-Repacker\\Hakkuraifu-Repacker.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\echol\\.nuget\\packages\\brotli.net\\2.1.1\\brotli.net.2.1.1.nupkg.sha512",
+    "C:\\Users\\echol\\.nuget\\packages\\sharpcompress\\0.32.2\\sharpcompress.0.32.2.nupkg.sha512",
+    "C:\\Users\\echol\\.nuget\\packages\\xz.net-netstandard\\2.0.0.2\\xz.net-netstandard.2.0.0.2.nupkg.sha512",
+    "C:\\Users\\echol\\.nuget\\packages\\zstdnet\\1.4.5\\zstdnet.1.4.5.nupkg.sha512"
+  ],
+  "logs": []
+}
